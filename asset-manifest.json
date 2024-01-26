@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Film-Mosaic/static/css/main.334bdeb1.css",
+    "main.js": "/Film-Mosaic/static/js/main.8263e083.js",
+    "index.html": "/Film-Mosaic/index.html",
+    "static/media/search.svg": "/Film-Mosaic/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Film-Mosaic/static/css/main.334bdeb1.css.map",
+    "main.8263e083.js.map": "/Film-Mosaic/static/js/main.8263e083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.8263e083.js"
+  ]
+}
